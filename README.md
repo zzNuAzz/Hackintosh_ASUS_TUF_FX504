@@ -85,7 +85,7 @@ You’re motherboard may not have all of these settings and that’s okay:
 
 Enter BIOS and set Boot → Boot Option #1: UEFI : XXX (For example I used a SanDisk flash drive so I would select UEFI: Sandisk, Partition 1) This is easier if you don’t want to spam F8 on startup every time to boot macOS.
 
-Press F10 to Save and **Exit the BIOS**
+Press ```F10``` to Save and **Exit the BIOS**
 
 # Step 3: Install – macOS Catalina Hackintosh Installation
 
