@@ -1,6 +1,6 @@
 # EFI for ASUS TUF 504 GD
 
-Configurations working with macOS Catalina 10.15.x4
+Configurations working with macOS Catalina 10.15.x
 
 <br/>
 
@@ -11,7 +11,7 @@ Configurations working with macOS Catalina 10.15.x4
 
 # Step 1: Download - get a copy of macOS Catalina
 
-To begin the setup of a Hackintosh we first need a clean copy of Catalina, which can be downloaded from the App Store or [macOS catalina 10.15.6](http://google.com.vn)
+To begin the setup of a Hackintosh we first need a clean copy of Catalina, which can be downloaded from the App Store or [macOS catalina 10.15.6](/#)
 
 <br/>
 
